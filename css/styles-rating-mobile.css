@@ -71,11 +71,12 @@ main button {
 }
 
 main button:hover {
-    cursor: pointer;
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(25, 97%, 53%);
+  cursor: pointer;
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(25, 97%, 53%);
 }
 
+/* Footer */
 footer {
   width: 100%;
   font-size: 0.8rem;
