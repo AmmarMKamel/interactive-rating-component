@@ -61,7 +61,7 @@ main #ratings span:hover {
 
 .active {
   background-color: hsl(216, 12%, 54%);
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%) !important;
 }
 
 main button {
