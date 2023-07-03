@@ -4,6 +4,12 @@ main {
     justify-content: center;
 }
 
+main img {
+    display: block;
+    width: 60%;
+    max-width: 100%;
+}
+
 main h3 {
     background-color: hsl(215, 18%, 19%);
     color: hsl(25, 97%, 53%);

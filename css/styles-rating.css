@@ -59,6 +59,11 @@ main #ratings span:hover {
   color: hsl(0, 0%, 100%);
 }
 
+.active {
+  background-color: hsl(216, 12%, 54%);
+  color: hsl(0, 0%, 100%);
+}
+
 main button {
   width: 100%;
   border: none;
@@ -85,4 +90,10 @@ footer {
 
 footer a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (min-width: 1440px) {
+  main {
+    max-width: 370px;
+  }
 }
